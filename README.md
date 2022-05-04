@@ -36,7 +36,9 @@
     <td>
   <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_4.jpg" />
   </td>
-    <td>
+  </tr>
+    <tr>
+   <td>
   <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_5.jpg" />
   </td>
     <td>
@@ -48,7 +50,9 @@
     <td>
   <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_8.jpg" />
   </td>
-    <td>
+  </tr>
+  <tr>
+  <td>
   <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_9.jpg" />
   </td>
     <td>
