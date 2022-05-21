@@ -20,7 +20,7 @@
   <li>FLUTTER</li>
   <li>GETX</li>
 </ul>
-<h3>Employee Management Template</h3>
+<h3>Employee Management UI Template</h3>
 <h5>Screen Images</h5>
   <table>
   <tr>
