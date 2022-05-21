@@ -1,5 +1,5 @@
 <h1>2022_Projects</h1> 
-<h3>Coffe Shop App in Flutter</h3>
+<h3>Coffe Shop App UI in Flutter</h3>
 <h5>Screen Images</h5>
   <table>
   <tr>
