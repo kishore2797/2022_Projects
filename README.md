@@ -16,7 +16,7 @@
 </table>
 <h5>Used Technologies</h5>
 <ul>
-  <li>MMVM</li>
+  <li>MVVM</li>
   <li>FLUTTER</li>
   <li>GETX</li>
 </ul>
