@@ -1,5 +1,5 @@
 <h1>2022_Projects</h1> 
-<h3>Coffe Shop App in Flutter</h3>
+<h3>Coffee Shop App UI Template in Flutter</h3>
 <h5>Screen Images</h5>
   <table>
   <tr>
@@ -16,7 +16,56 @@
 </table>
 <h5>Used Technologies</h5>
 <ul>
-  <li>MMVM</li>
+  <li>MVVM</li>
+  <li>FLUTTER</li>
+  <li>GETX</li>
+</ul>
+<h3>Employee Management UI Template</h3>
+<h5>Screen Images</h5>
+  <table>
+  <tr>
+  <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_1.jpg" />
+  </td>
+  <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_2.jpg" />
+  </td>
+   <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_3.jpg" />
+  </td>
+    <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_4.jpg" />
+  </td>
+  </tr>
+    <tr>
+   <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_5.jpg" />
+  </td>
+    <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_6.jpg" />
+  </td>
+    <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_7.jpg" />
+  </td>
+    <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_8.jpg" />
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_9.jpg" />
+  </td>
+    <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_10.jpg" />
+  </td>
+    <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Employee_Management_Template/emp_11.jpg" />
+  </td>
+  </tr>
+</table>
+<h5>Used Technologies</h5>
+<ul>
+  <li>MVVM</li>
   <li>FLUTTER</li>
   <li>GETX</li>
 </ul>
