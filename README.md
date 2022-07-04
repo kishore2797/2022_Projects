@@ -69,3 +69,23 @@
   <li>FLUTTER</li>
   <li>GETX</li>
 </ul>
+<h3>Music UI Template in React</h3>
+<h5>Screen Images</h5>
+  <table>
+  <tr>
+  <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/React/Rungon/1.png" />
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/React/Rungon/2.png" />
+  </td>
+  </tr>
+</table>
+<h5>Used Technologies</h5>
+<ul>
+  <li>MVVM</li>
+  <li>FLUTTER</li>
+  <li>GETX</li>
+</ul>
