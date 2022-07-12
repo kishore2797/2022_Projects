@@ -77,16 +77,23 @@
   <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Custom_Google_Maps/1.jpg" /><br><p>Custom Icons</p>
   </td>
   <td>
-  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Custom_Google_Maps/1.jpg" />
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Custom_Google_Maps/2.jpg" /><br><p>Tracking live location of delivery with custom markers</p>
   </td>
    <td>
-  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Custom_Google_Maps/1.jpg" />
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Custom_Google_Maps/3.jpg" /><br><p>Getting current live location info and marking</p>
   </td>
     <td>
-  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Custom_Google_Maps/1.jpg" />
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Custom_Google_Maps/4.jpg" /><br><p>Search new places</p>
   </td>
   </tr>
-  
+    <tr>
+  <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Custom_Google_Maps/5.jpg" /><br><p>Showing details about searched places</p>
+  </td>
+  <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/Flutter/Custom_Google_Maps/6.jpg" /><br><p>Showing details about on map cliking places</p>
+  </td>
+  </tr>
 </table>
 <h5>Used Technologies</h5>
 <ul>
