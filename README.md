@@ -69,3 +69,19 @@
   <li>FLUTTER</li>
   <li>GETX</li>
 </ul>
+<h3>Music UI Template in React</h3>
+<h4>Demo Url -- <a href="https://dummyapi-e962f.web.app/">Rungon</a></h4>
+<h5>Screen Images</h5>
+  <table>
+  <tr>
+  <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/React/Rungon/1.png" />
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <img src="https://github.com/defetron27/2022_Projects/blob/main/React/Rungon/2.png" />
+  </td>
+  </tr>
+</table>
+<h5>Inspired By -- <a href="https://dribbble.com/shots/15060139-Rungon-Music-Streaming-Dashboard/attachments/6787790?mode=media">https://dribbble.com/shots/15060139-Rungon-Music-Streaming-Dashboard/attachments/6787790?mode=media<a></h5>
